@@ -14,6 +14,9 @@ Atualmente sou estudante fullstack na Cubos Academy, e vou transformar minha rea
  
 </div>
 
+##
+
+Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fran-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +28,7 @@ Atualmente sou estudante fullstack na Cubos Academy, e vou transformar minha rea
 
  ##
  
- Redes Socias:
+ Rede Socias:
  
  <div>
   <a href="https://www.instagram.com/fransantos_black" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
