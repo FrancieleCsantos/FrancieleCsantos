@@ -1,10 +1,14 @@
-Olá, eu sou a Fran. ❤
+Console.log("Ola,mundo!  Eu sou a Fran") ❤
 ##
-Apaixonada por gatos, praia, músicas, filmes e séries.
-Sou extremamente curiosa, amo aprender algo novo 👀
 
-Atualmente sou estudante fullstack na Cubos Academy, e vou transformar minha realizade por meio da tecnologia.
+Atualmente sou estudante do curso de Desenvolvimento Web ministrado pela Cubos Academy.
 
+Aprender programação do zero foi um desafio muito grande, quando vi a frase " Hello World' renderizar no navegador web pela primeira vez, simplesmente fiquei encantada, meus olhos brilharam e senti uma empolgação muito grande.
+
+Me apaixonei pelo Front-end, pois consigo ver a magia acontecendo diante de meus olhos, posso encantar outras pessoas com meu trabalho.
+Com 1% de conhecimento adquirido a cada dia, vou chegar longe!   
+
+Sou dedicada, me esforço muito para alcançar meus objetivos, sou curiosa ao extremo, amante gatos , filmes, séries, natureza e as coisas simples da vida. 
 
 ##
 
@@ -34,7 +38,7 @@ Linguagens:
   <a href="https://www.instagram.com/fransantos_black" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Q98yjFJfky" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "francieleconceicaodossantos93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franciele-santos-1105081b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/franciele-csantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div/>
   
   ##
