@@ -1,4 +1,4 @@
-Console.log("Ola,mundo!  Eu sou a Fran") ❤
+Console.log("Ola, sou a Fran") ❤
 ##
 
 Atualmente sou estudante do curso de Desenvolvimento Web ministrado pela Cubos Academy.
