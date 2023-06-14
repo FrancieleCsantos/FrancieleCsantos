@@ -1,8 +1,5 @@
 console.log("Ola, sou a Fran") ❤
 ##
-
-Atualmente sou estudante do curso de Desenvolvimento Web ministrado pela Cubos Academy.
-
 Aprender programação do zero foi um desafio muito grande, quando vi a frase " Hello World' renderizar no navegador web pela primeira vez, simplesmente fiquei encantada, meus olhos brilharam e senti uma empolgação muito grande.
 
 Me apaixonei pelo Front-end, pois consigo ver a magia acontecendo diante de meus olhos, posso encantar outras pessoas com meu trabalho.
