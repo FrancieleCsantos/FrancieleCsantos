@@ -1,11 +1,10 @@
 console.log("Ola, sou a Fran") ❤
 ##
-Aprender programação do zero foi um desafio muito grande, quando vi a frase " Hello World' renderizar no navegador web pela primeira vez, simplesmente fiquei encantada, meus olhos brilharam e senti uma empolgação muito grande.
+Aprender programação do zero foi um grande desafio, mas ver o "Hello World" no navegador pela primeira vez me encantou e despertou algo em mim. Foi ali que descobri minha paixão pelo Front-end — adoro ver a mágica acontecer na tela e criar experiências que encantam.
 
-Me apaixonei pelo Front-end, pois consigo ver a magia acontecendo diante de meus olhos, posso encantar outras pessoas com meu trabalho.
-Com 1% de conhecimento adquirido a cada dia, vou chegar longe!   
+Com o tempo, me apaixonei também pela Qualidade de Software. Gosto de testar, validar e garantir que tudo funcione como deve. Encontrar falhas e melhorar a experiência do usuário me motiva todos os dias.
 
-Sou dedicada, me esforço muito para alcançar meus objetivos, sou curiosa ao extremo, amante gatos , filmes, séries, natureza e as coisas simples da vida. 
+Sou dedicada, curiosa e persistente. Acredito no poder do progresso diário — 1% a cada dia — e sigo evoluindo com entusiasmo, sem perder o brilho nos olhos.
 
 ##
 
