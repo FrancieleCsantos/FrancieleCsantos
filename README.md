@@ -40,7 +40,6 @@ Linguagens:
   ##
  Frases da vida: 
 
-# Quando estiver no fundo do poço, simplesmente pare de cavar.
 
 # Eu não sou a dona do mundo, mas sou a filha do dono.
 
