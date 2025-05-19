@@ -38,10 +38,9 @@ Linguagens:
   <div/>
   
   ##
- Frases da vida: 
+ Frase da vida: 
 
-
-# Eu não sou a dona do mundo, mas sou a filha do dono.
+### Eu não sou a dona do mundo, mas sou a filha do dono.
 
 
 
